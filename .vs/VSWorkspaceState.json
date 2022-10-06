@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_server",
+    "\\app_server\\controllers",
+    "\\app_server\\models",
+    "\\app_server\\routes",
+    "\\app_server\\views",
+    "\\bin",
+    "\\public"
+  ],
+  "SelectedNode": "\\app_server\\views\\layout.pug",
+  "PreviewInSolutionExplorer": false
+}
